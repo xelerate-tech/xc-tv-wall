@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XC TV Wall</string>
+    <string name="waiting">Waiting for content…</string>
+    <string name="not_configured">Not configured — see README</string>
+    <string name="menu_title">Slide speed</string>
+    <string name="menu_seconds">%1$d seconds</string>
+    <string name="menu_explain">How long each picture and slide stays on screen.\nVideos always play to the end.</string>
+    <string name="menu_hint">◀ ▶ change  ·  OK or Back to close</string>
+</resources>

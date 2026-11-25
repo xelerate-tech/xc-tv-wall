@@ -1,0 +1,11 @@
+.superpowers/
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+.idea/
+*.iml
+.DS_Store
+secrets/*
+!secrets/README.txt
